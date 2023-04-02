@@ -1,10 +1,10 @@
-/*
- *the header file
- *
- * */
 #ifndef main_h
 	#define main_h
-
+	/**
+ 	* main - Entry point
+ 	*
+ 	* Return: Always 0 (Success)
+ 	*/
 
 	int _putchar(char);
 	void print_alphabet(void);

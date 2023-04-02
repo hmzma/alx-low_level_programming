@@ -1,10 +1,5 @@
 #ifndef main_h
-	#define main_h
-	/**
- 	* main - Entry point
- 	*
- 	* Return: Always 0 (Success)
- 	*/
+	#define main_h 
 
 	int _putchar(char);
 	void print_alphabet(void);

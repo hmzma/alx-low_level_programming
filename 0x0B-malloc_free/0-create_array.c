@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- *
+ * create_array:
  * creates an array of size size and assign char c to it
  * Return: pointer to array if success, and NULL if it fails
  *
